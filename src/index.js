@@ -4,7 +4,8 @@ import Form from './components/Form'
 
 ReactDOM.render(
   <div>
-    <Form />
+    <Form 
+    />
   </div>,
   document.getElementById('root')
 );
